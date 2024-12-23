@@ -15,6 +15,6 @@ export default function Player() {
         <input ref={playerName} type="text" />
         <button onClick={handleSubmit}>Set Name</button>
       </p>
-    </section>
+    </section> 
   );
 }
